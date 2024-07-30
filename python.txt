@@ -1,0 +1,14 @@
+Notes in python
+In python to display an information we use the "Print" function or statment.
+When we wanna ask information from a user we use the "Input" funtion.
+The information that is displayed is usually called Strings. Strings can be either letters, numbers, or whatsoever.
+Strings can be stored into variables. When you want to type a variable with more than two letters you use the underscore(_)
+There are no spaces in variable. When you wanna display a string and if its letters, you use the quotes;
+either double or single quotes(""/''). But when its numbers, you dont use the quotes.
+Combining two strings together is called string concatenation.
+Types of data in python:Numbers(0123456789)
+                        Strings('Letters')
+                        Booleans(True or False)
+Int(Integer) function(Converting strings into numbers and they are whole number eg;0123456)
+Flt(Float) finction has decimals within the number.
+                        
