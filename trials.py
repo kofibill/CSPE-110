@@ -1,5 +1,3 @@
-# Calling existing
-import math
-number=int(input('Please enter a number: '))
-math.ceil(number)
-print(math)
+#i am practicing my python code 
+church=input('What Church do you attend? ')
+print('The name of my Church is ' + church)
